@@ -1,0 +1,262 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage[sorting=none]{biblatex}
+\addbibresource{papers.bib}
+\usepackage{csquotes}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://www.linkedin.com/in/jiradett/}{\Large Jiradett Kerdsri, PhD}} & Email : \href{mailto:jiradett@gmail.com}{jiradett@gmail.com}\\
+  \href{www.linkedin.com/in/jiradett/}{linkedin.com/in/jiradett/} & Mobile : +66-909-747-183 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Sirindhorn International Institute of Technology}{Pathumthani, Thailand}
+      {Ph.D. in Engineering and Technology}{2011 - 2015}
+    \resumeSubheading
+      {University of Melbourne}{Victoria, Australia}
+      {Master in Geographic Information Technology}{2008 - 2009}
+    \resumeSubheading
+      {US Naval Postgraduate School}{California, USA}
+      {Master in Computer Science}{2001 - 2003}
+    \resumeSubheading
+      {Air Force Academy}{Bangkok, Thailand}
+      {Bachelor in Civil Engineering}{1994 - 1999}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Bank of Thailand}{}
+      {Deputy Director, Data Analytics Unit}{Oct 2018 - Present}
+      \resumeItemListStart
+        \resumeItem{}
+          {Leading the core-data scientist team to make use of micro/granular data and alternative data (big data) }
+        \resumeItem{}
+          {To augment insights found from aggregated data through the use of artificial intelligence, machine learning, text processing, and network theory.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Defense Technology Institute}{Ministry of Defence}
+      {Director, Data Communication Laboratory}{Jul 2009 - Oct 2018}
+      \resumeItemListStart
+        \resumeItem{Research topics}
+          {Big data, Data analytics, Artificial Intelligence, Machine (deep) Learning (mainly on Computer Vision), Opportunistic Network, MANET, Tactical Network, etc.}
+        \resumeItem{}
+          {Lead and manage data communication laboratory for research and functional projects.}
+        \resumeItem{}
+          {Software implementations mainly on JAVA, PHP, and Python.}
+        \resumeItem{}
+          {Project manager for software implementation, basic research and publication projects based on agile methodology.}
+        \resumeItem{}
+          {Manage and maintain organization KPI on research publications.}
+        \resumeItem{}
+          {Organizing the international conference on defense research.}
+        \resumeItem{}
+          {Provide knowledge management for basic research, ICT projects, and research publications.}
+        \resumeItem{}
+          {Support director of research and development with technical reports.}
+        \resumeItem{}
+          {Coach and mentor the associate researchers on research methodology.}
+        \resumeItem{}
+          {Suggest technology initiatives and implementation plans for related defense research projects.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {International Hospitality Management School Vatel}{}
+      {Lecturer}{May 2013 - Sep 2018}
+      \resumeItemListStart
+        \resumeItem{}
+          { Implemented and managed ICT curriculum for VATEL.}
+        \resumeItem{}
+          {Teaching information technology for the hospitality business course.}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Something Aussie}{Melbourne, Australia}
+      {IT Administrator}{Jan 2008 - Jan 2009}
+      \resumeItemListStart
+        \resumeItem{}
+          {Managed IT infrastructure for the shop, including online payment, PoS, CRM, and website.}
+        \resumeItem{}
+          {Responsible for sales and marketing.}
+        \resumeItem{}
+          {Maintained the website and online orders.}
+        \resumeItem{}
+          {Supported the PR team, and social media marketing.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Supreme Command Headquarters}{Ministry of Defence}
+      {Computer Programmer}{Mar 2003 - Jul 2009}
+      \resumeItemListStart
+        \resumeItem{}
+          {Implemented and develop the application for Command, Control, Communications, Computers, \& Intelligence (C4I) system.}
+        \resumeItem{}
+          {Worked on data analytics for Geographic Information System (GIS) and spatial analysis.}
+        \resumeItem{}
+          {Worked with US Department of Defence on Multinational Communications Interoperability Program (MCIP).}
+        \resumeItem{}
+          {Developed communication application for Counter Terrorist Operations Center (CTOC).}
+        \resumeItem{}
+          {Worked with the United Nations for the peacekeeping mission.}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Air Force}{}
+      {Construction office}{Oct 2000 – Oct 2001}
+      \resumeItemListStart
+        \resumeItem{}
+          {Responsible for Air Force assets including construction design, build, and maintenance.}
+        \resumeItem{}
+          {Provided drawing and building designs.}
+        \resumeItem{}
+          {Controlled the construction team according to building plan.}
+      \resumeItemListEnd
+
+      \resumeSubheading
+      {Air Force}{}
+      {Student Pilot}{Oct 1999 – Oct 2000}
+      \resumeItemListStart
+        \resumeItem{}
+          {Trained on CT-4 aircraft.}
+        \resumeItem{}
+          {Trained on Bell-206 helicopter.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------------
+% \section{Projects}
+%   \resumeSubHeadingListStart
+%     \resumeSubItem{QuantSoftware Toolkit}
+%       {Open source python library for financial data analysis and machine learning for finance.}
+%     \resumeSubItem{Github Visualization}
+%       {Data Visualization of Git Log data using D3 to analyze project trends over time.}
+%     \resumeSubItem{Recommendation System}
+%       {Music and Movie recommender systems using collaborative filtering on public datasets.}
+%     \resumeSubItem{Mac Setup}
+%       {Book that gives step by step instructions on setting up developer environment on Mac OS.}
+%   \resumeSubHeadingListEnd
+
+%
+%--------PROGRAMMING SKILLS------------
+%\section{Programming Skills}
+%  \resumeSubHeadingListStart
+%    \item{
+%      \textbf{Languages}{: Scala, Python, Javascript, C++, SQL, Java}
+%      \hfill
+%      \textbf{Technologies}{: AWS, Play, React, Kafka, GCE}
+%    }
+%  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\section{Publications}
+\begin{refsection}
+  \nocite{Kerdsri2017}
+  \nocite{doi:10.1155/2015/819178}
+  \nocite{Kerdsri2013}
+  \nocite{journal2013}
+  \nocite{waset2011}
+  \AtNextBibliography{\small}
+	\printbibliography[title={Journals}]
+\end{refsection}
+
+\begin{refsection}
+	\nocite{Kerdsri2018}
+  \nocite{7886152}
+  \nocite{7332543}
+  \nocite{Kerdsri2012}
+  \nocite{6427357}
+  \nocite{6174610}
+  \nocite{waset2010}
+	\AtNextBibliography{\small}
+	\printbibliography[title={Conference Proceedings}]
+\end{refsection}
+
+\begin{refsection}
+  \nocite{book2013}
+  \nocite{book2013a}
+  \nocite{book2012}
+  \nocite{book2012a}
+  \nocite{book2012b}
+  \nocite{book2007}
+  \nocite{kerdsri2003snmp}
+	\AtNextBibliography{\small}
+	\printbibliography[title={Books}]
+\end{refsection}
+\end{document}
