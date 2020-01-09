@@ -455,175 +455,77 @@
 \refsection{3}
   \datalist[entry]{none/global//global/global}
     \entry{book2013}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {SE-EDUCATION}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9786167240343}
       \field{title}{iPhone 5s/c Complete user guide}
       \field{year}{2013}
     \endentry
     \entry{book2013a}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {SE-EDUCATION}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9786167240329}
       \field{title}{Samsung Galaxy S4 the Complete Manual}
       \field{year}{2013}
     \endentry
     \entry{book2012}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {SE-EDUCATION}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{3}
       \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9786167240312}
       \field{title}{Samsung Galaxy Note 2}
       \field{year}{2012}
     \endentry
     \entry{book2012a}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {SE-EDUCATION}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{4}
       \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9786167240299}
       \field{title}{Max OS X Mountain Lion}
       \field{year}{2012}
     \endentry
     \entry{book2012b}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {SE-EDUCATION}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{5}
       \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9786167240275}
       \field{title}{Samsung Galaxy S3: How to use}
       \field{year}{2012}
     \endentry
     \entry{book2007}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {SE-EDUCATION}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{6}
       \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9789749560136}
       \field{title}{Wiki, Knowledge Management System}
       \field{year}{2007}
     \endentry
     \entry{kerdsri2003snmp}{book}{}
-      \name{author}{1}{}{%
-        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
-           family={Kerdsri},
-           familyi={K\bibinitperiod},
-           given={Jiradett},
-           giveni={J\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
         {Storming Media}%
       }
-      \strng{namehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{fullhash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{bibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorbibnamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authornamehash}{b711b5c901cad4340ca98bba8197bdbf}
-      \strng{authorfullhash}{b711b5c901cad4340ca98bba8197bdbf}
       \field{sortinit}{7}
       \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{1423503287}
       \field{title}{SNMP over Wi-Fi wireless networks}
