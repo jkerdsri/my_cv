@@ -1,41 +1,41 @@
-[0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'JK.blg'
-[61] biber-darwin:313> INFO - === Thu Jan  9, 2020, 10:06:34
-[90] Biber.pm:371> INFO - Reading 'JK.bcf'
-[210] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[210] Biber.pm:857> INFO - Found 5 citekeys in bib section 1
-[210] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[210] Biber.pm:857> INFO - Found 7 citekeys in bib section 2
-[210] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[210] Biber.pm:857> INFO - Found 7 citekeys in bib section 3
-[211] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[249] Biber.pm:3976> INFO - Processing section 1
-[272] Biber.pm:4136> INFO - Looking for bibtex format file 'papers.bib' for section 1
-[275] bibtex.pm:1500> INFO - LaTeX decoding ...
-[320] bibtex.pm:1316> INFO - Found BibTeX data source 'papers.bib'
-[371] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[371] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[371] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[371] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[389] Biber.pm:3976> INFO - Processing section 2
-[389] Biber.pm:4136> INFO - Looking for bibtex format file 'papers.bib' for section 2
-[397] Utils.pm:193> WARN - month field 'April' in entry 'Kerdsri2018' is not an integer - this will probably not sort properly.
-[416] Utils.pm:193> WARN - month field 'Jan' in entry '7886152' is not an integer - this will probably not sort properly.
-[427] Utils.pm:193> WARN - month field 'Aug' in entry '7332543' is not an integer - this will probably not sort properly.
-[461] Utils.pm:193> WARN - month field 'dec' in entry 'Kerdsri2012' is not an integer - this will probably not sort properly.
-[471] Utils.pm:193> WARN - month field 'Dec' in entry '6427357' is not an integer - this will probably not sort properly.
-[482] Utils.pm:193> WARN - month field 'Feb' in entry '6174610' is not an integer - this will probably not sort properly.
-[492] Utils.pm:193> WARN - month field 'Jul' in entry 'waset2010' is not an integer - this will probably not sort properly.
-[519] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[519] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[519] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[519] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[532] Biber.pm:3976> INFO - Processing section 3
-[532] Biber.pm:4136> INFO - Looking for bibtex format file 'papers.bib' for section 3
-[579] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[579] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[579] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[580] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[588] bbl.pm:617> INFO - Writing 'JK.bbl' with encoding 'UTF-8'
-[598] bbl.pm:720> INFO - Output to JK.bbl
-[599] Biber.pm:110> INFO - WARNINGS: 7
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'JK.blg'
+[54] biber-darwin:340> INFO - === Fri Jul 16, 2021, 13:35:58
+[66] Biber.pm:415> INFO - Reading 'JK.bcf'
+[132] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[133] Biber.pm:952> INFO - Found 5 citekeys in bib section 1
+[133] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[133] Biber.pm:952> INFO - Found 7 citekeys in bib section 2
+[133] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[133] Biber.pm:952> INFO - Found 7 citekeys in bib section 3
+[133] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[157] Biber.pm:4340> INFO - Processing section 1
+[165] Biber.pm:4531> INFO - Looking for bibtex format file 'papers.bib' for section 1
+[166] bibtex.pm:1689> INFO - LaTeX decoding ...
+[183] bibtex.pm:1494> INFO - Found BibTeX data source 'papers.bib'
+[225] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[225] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[225] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[225] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[230] Biber.pm:4340> INFO - Processing section 2
+[231] Biber.pm:4531> INFO - Looking for bibtex format file 'papers.bib' for section 2
+[233] Utils.pm:395> WARN - legacy month field 'April' in entry 'Kerdsri2018' is not an integer - this will probably not sort properly.
+[239] Utils.pm:395> WARN - legacy month field 'Jan' in entry '7886152' is not an integer - this will probably not sort properly.
+[241] Utils.pm:395> WARN - legacy month field 'Aug' in entry '7332543' is not an integer - this will probably not sort properly.
+[257] Utils.pm:395> WARN - legacy month field 'dec' in entry 'Kerdsri2012' is not an integer - this will probably not sort properly.
+[260] Utils.pm:395> WARN - legacy month field 'Dec' in entry '6427357' is not an integer - this will probably not sort properly.
+[263] Utils.pm:395> WARN - legacy month field 'Feb' in entry '6174610' is not an integer - this will probably not sort properly.
+[266] Utils.pm:395> WARN - legacy month field 'Jul' in entry 'waset2010' is not an integer - this will probably not sort properly.
+[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[274] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[274] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[277] Biber.pm:4340> INFO - Processing section 3
+[277] Biber.pm:4531> INFO - Looking for bibtex format file 'papers.bib' for section 3
+[286] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[286] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[286] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[286] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[289] bbl.pm:654> INFO - Writing 'JK.bbl' with encoding 'UTF-8'
+[294] bbl.pm:757> INFO - Output to JK.bbl
+[294] Biber.pm:128> INFO - WARNINGS: 7
