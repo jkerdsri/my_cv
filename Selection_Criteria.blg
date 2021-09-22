@@ -1,0 +1,41 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'Selection_Criteria.blg'
+[55] biber-darwin:340> INFO - === Wed Sep 22, 2021, 18:07:54
+[67] Biber.pm:415> INFO - Reading 'Selection_Criteria.bcf'
+[134] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[135] Biber.pm:952> INFO - Found 5 citekeys in bib section 1
+[135] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[135] Biber.pm:952> INFO - Found 7 citekeys in bib section 2
+[135] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[135] Biber.pm:952> INFO - Found 7 citekeys in bib section 3
+[135] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[160] Biber.pm:4340> INFO - Processing section 1
+[168] Biber.pm:4531> INFO - Looking for bibtex format file 'papers.bib' for section 1
+[169] bibtex.pm:1689> INFO - LaTeX decoding ...
+[187] bibtex.pm:1494> INFO - Found BibTeX data source 'papers.bib'
+[230] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[230] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[230] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[230] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[236] Biber.pm:4340> INFO - Processing section 2
+[236] Biber.pm:4531> INFO - Looking for bibtex format file 'papers.bib' for section 2
+[239] Utils.pm:395> WARN - legacy month field 'April' in entry 'Kerdsri2018' is not an integer - this will probably not sort properly.
+[244] Utils.pm:395> WARN - legacy month field 'Jan' in entry '7886152' is not an integer - this will probably not sort properly.
+[246] Utils.pm:395> WARN - legacy month field 'Aug' in entry '7332543' is not an integer - this will probably not sort properly.
+[262] Utils.pm:395> WARN - legacy month field 'dec' in entry 'Kerdsri2012' is not an integer - this will probably not sort properly.
+[265] Utils.pm:395> WARN - legacy month field 'Dec' in entry '6427357' is not an integer - this will probably not sort properly.
+[267] Utils.pm:395> WARN - legacy month field 'Feb' in entry '6174610' is not an integer - this will probably not sort properly.
+[270] Utils.pm:395> WARN - legacy month field 'Jul' in entry 'waset2010' is not an integer - this will probably not sort properly.
+[279] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[279] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[279] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[279] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[282] Biber.pm:4340> INFO - Processing section 3
+[282] Biber.pm:4531> INFO - Looking for bibtex format file 'papers.bib' for section 3
+[291] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[291] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[291] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[291] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[294] bbl.pm:654> INFO - Writing 'Selection_Criteria.bbl' with encoding 'UTF-8'
+[299] bbl.pm:757> INFO - Output to Selection_Criteria.bbl
+[299] Biber.pm:128> INFO - WARNINGS: 7

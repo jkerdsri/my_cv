@@ -1,0 +1,561 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{Kerdsri2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
+           family={Kerdsri},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7eedb3e8461de249a5f199988d98a4c2}{%
+           family={Veeraklaew},
+           familyi={V\bibinitperiod},
+           given={Tawiwat},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{fullhash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{bibnamehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{authorbibnamehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{authornamehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{authorfullhash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computers}
+      \field{number}{4}
+      \field{title}{{Visualization of Spatial Distribution of Random Waypoint Mobility Models}}
+      \field{volume}{12}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{309\bibrangedash 316}
+      \range{pages}{8}
+    \endentry
+    \entry{doi:10.1155/2015/819178}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
+           family={Kerdsri},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f545ebb9ce25237a27b79ea4ad41f551}{%
+           family={Wipusitwarakun},
+           familyi={W\bibinitperiod},
+           given={Komwut},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{795397532f00618de00d2e70f4a3bbb6}
+      \strng{fullhash}{795397532f00618de00d2e70f4a3bbb6}
+      \strng{bibnamehash}{795397532f00618de00d2e70f4a3bbb6}
+      \strng{authorbibnamehash}{795397532f00618de00d2e70f4a3bbb6}
+      \strng{authornamehash}{795397532f00618de00d2e70f4a3bbb6}
+      \strng{authorfullhash}{795397532f00618de00d2e70f4a3bbb6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Distributed Sensor Networks}
+      \field{number}{2}
+      \field{title}{Dynamic Rendezvous Based Routing Algorithm on Sparse Opportunistic Network Environment}
+      \field{volume}{11}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{819178}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1155/2015/819178
+      \endverb
+    \endentry
+    \entry{Kerdsri2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
+           family={Kerdsri},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5db3f7ec33f518db8e160ee15c96deb8}{%
+           family={Wipusitwarkun},
+           familyi={W\bibinitperiod},
+           given={Komwut},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{fullhash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{bibnamehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{authorbibnamehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{authornamehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{authorfullhash}{43db798ce5852a93dafa3ae82990c135}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Convergence Information Technology}
+      \field{number}{August}
+      \field{title}{{DORSI : Data-wise Opportunistic Routing with Spatial Information}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{91\bibrangedash 103}
+      \range{pages}{13}
+    \endentry
+    \entry{journal2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
+           family={Kerdsri},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7eedb3e8461de249a5f199988d98a4c2}{%
+           family={Veeraklaew},
+           familyi={V\bibinitperiod},
+           given={Tawiwat},
+           giveni={T\bibinitperiod}}}%
+        {{hash=70dbbc12a0c1c62970a2051ead15dbb3}{%
+           family={Malisuwan},
+           familyi={M\bibinitperiod},
+           given={Settapong},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee0db914b2593fa399835b5eca57d6ca}
+      \strng{fullhash}{ee0db914b2593fa399835b5eca57d6ca}
+      \strng{bibnamehash}{ee0db914b2593fa399835b5eca57d6ca}
+      \strng{authorbibnamehash}{ee0db914b2593fa399835b5eca57d6ca}
+      \strng{authornamehash}{ee0db914b2593fa399835b5eca57d6ca}
+      \strng{authorfullhash}{ee0db914b2593fa399835b5eca57d6ca}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Electronics and Electrical Engineering}
+      \field{number}{2}
+      \field{title}{Randomized Replication based on Multilevel of Security for Opportunistic Network}
+      \field{volume}{1}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{115\bibrangedash 119}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.12720/ijeee.1.2.115-119
+      \endverb
+    \endentry
+    \entry{waset2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e019e5d8e58fd64365943c95c9729b5a}{%
+           family={K.},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c79f72a8ed2d28c825f485eeee3bb1e3}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Ornin},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {World Academy of Science, Engineering}%
+        {Technology}%
+      }
+      \strng{namehash}{abde2c46c5f158e1bbdcef15b28cacfc}
+      \strng{fullhash}{abde2c46c5f158e1bbdcef15b28cacfc}
+      \strng{bibnamehash}{abde2c46c5f158e1bbdcef15b28cacfc}
+      \strng{authorbibnamehash}{abde2c46c5f158e1bbdcef15b28cacfc}
+      \strng{authornamehash}{abde2c46c5f158e1bbdcef15b28cacfc}
+      \strng{authorfullhash}{abde2c46c5f158e1bbdcef15b28cacfc}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{eISSN: 1307-6892}
+      \field{journaltitle}{International Journal of Electronics and Communication Engineering}
+      \field{number}{6}
+      \field{title}{The Safety of WiMAX Insolid Propellant Rocket Production}
+      \field{volume}{5}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{747\bibrangedash 749}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://publications.waset.org/vol/54
+      \endverb
+      \verb{url}
+      \verb https://publications.waset.org/vol/54
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{none/global//global/global}
+    \entry{Kerdsri2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
+           family={Kerdsri},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7eedb3e8461de249a5f199988d98a4c2}{%
+           family={Veeraklaew},
+           familyi={V\bibinitperiod},
+           given={Tawiwat},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{fullhash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{bibnamehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{authorbibnamehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{authornamehash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \strng{authorfullhash}{141238f6a4fe64e7af26af5c649ad0c4}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Conference on Information and Social Science}
+      \field{month}{4}
+      \field{title}{{Opportunistic Network Informatics using Deep Learning}}
+      \field{year}{2018}
+      \true{nocite}
+    \endentry
+    \entry{7886152}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=657367f45724fe121c00ec3b22943779}{%
+           family={{Kerdsri}},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1a3d48793f89996ae60c3060a490503d}{%
+           family={{San-Um}},
+           familyi={S\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e5e722f8c8dea632ed60d154acff20b8}{%
+           family={{Lekbunyasin}},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4791e6c1506ff7948c592add68bae748}{%
+           family={{Kodyoo}},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e9641558403fb36c24ec5d981cf49818}{%
+           family={{Wongsuwan}},
+           familyi={W\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e237321e218c4d8015522f689e654e07}{%
+           family={{Makfak}},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{04301517352ba91363429dee36c10bb0}
+      \strng{fullhash}{7bc7bd2aedbf83ea25cae52974e005ba}
+      \strng{bibnamehash}{04301517352ba91363429dee36c10bb0}
+      \strng{authorbibnamehash}{04301517352ba91363429dee36c10bb0}
+      \strng{authornamehash}{04301517352ba91363429dee36c10bb0}
+      \strng{authorfullhash}{7bc7bd2aedbf83ea25cae52974e005ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 Third Asian Conference on Defence Technology (ACDT)}
+      \field{issn}{null}
+      \field{month}{1}
+      \field{title}{A long-range low-power wireless sensor network based on U-LoRa technology for tactical troops tracking systems}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{32\bibrangedash 35}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ACDT.2017.7886152
+      \endverb
+    \endentry
+    \entry{7332543}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=657367f45724fe121c00ec3b22943779}{%
+           family={{Kerdsri}},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f82d79362703b5a52101edf63c446772}{%
+           family={{Veeraklaew}},
+           familyi={V\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f52236bafbf19d03a3ef934eff424826}
+      \strng{fullhash}{f52236bafbf19d03a3ef934eff424826}
+      \strng{bibnamehash}{f52236bafbf19d03a3ef934eff424826}
+      \strng{authorbibnamehash}{f52236bafbf19d03a3ef934eff424826}
+      \strng{authornamehash}{f52236bafbf19d03a3ef934eff424826}
+      \strng{authorfullhash}{f52236bafbf19d03a3ef934eff424826}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 11th International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (QSHINE)}
+      \field{issn}{null}
+      \field{month}{8}
+      \field{title}{Analysis of energy and mobility model on opportunistic routing algorithms}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{60\bibrangedash 65}
+      \range{pages}{6}
+    \endentry
+    \entry{Kerdsri2012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b711b5c901cad4340ca98bba8197bdbf}{%
+           family={Kerdsri},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5db3f7ec33f518db8e160ee15c96deb8}{%
+           family={Wipusitwarkun},
+           familyi={W\bibinitperiod},
+           given={Komwut},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{fullhash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{bibnamehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{authorbibnamehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{authornamehash}{43db798ce5852a93dafa3ae82990c135}
+      \strng{authorfullhash}{43db798ce5852a93dafa3ae82990c135}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 IEEE/SICE International Symposium on System Integration (SII)}
+      \field{isbn}{978-1-4673-1497-8}
+      \field{month}{12}
+      \field{title}{{Data-wise Routing in Virtualization Environment (DRIVE) with multiple level of security for tactical network}}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{933\bibrangedash 938}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SII.2012.6427357
+      \endverb
+    \endentry
+    \entry{6427357}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=657367f45724fe121c00ec3b22943779}{%
+           family={{Kerdsri}},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c74b0741605b8eb8c2e00cfa4246b8a6}{%
+           family={{Wipusitwarkun}},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{fullhash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{bibnamehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{authorbibnamehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{authornamehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{authorfullhash}{52a3355ef07cb08484070663fe66ad35}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 IEEE/SICE International Symposium on System Integration (SII)}
+      \field{issn}{null}
+      \field{month}{12}
+      \field{title}{Data-wise Routing in Virtualization Environment (DRIVE) with multiple level of security for tactical network}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{933\bibrangedash 938}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SII.2012.6427357
+      \endverb
+    \endentry
+    \entry{6174610}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=657367f45724fe121c00ec3b22943779}{%
+           family={{Kerdsri}},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c74b0741605b8eb8c2e00cfa4246b8a6}{%
+           family={{Wipusitwarkun}},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{fullhash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{bibnamehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{authorbibnamehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{authornamehash}{52a3355ef07cb08484070663fe66ad35}
+      \strng{authorfullhash}{52a3355ef07cb08484070663fe66ad35}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 14th International Conference on Advanced Communication Technology (ICACT)}
+      \field{issn}{1738-9445}
+      \field{month}{2}
+      \field{title}{Network virtualization for military application: Review and initial development of conceptual design}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{61\bibrangedash 66}
+      \range{pages}{6}
+    \endentry
+    \entry{waset2010}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=e019e5d8e58fd64365943c95c9729b5a}{%
+           family={K.},
+           familyi={K\bibinitperiod},
+           given={Jiradett},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c79f72a8ed2d28c825f485eeee3bb1e3}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Ornin},
+           giveni={O\bibinitperiod}}}%
+        {{hash=2218634d34b1f3a98750f40a8463f386}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Teeranun},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6640d94d31f9c46e9b924a5c7aa726e2}
+      \strng{fullhash}{6640d94d31f9c46e9b924a5c7aa726e2}
+      \strng{bibnamehash}{6640d94d31f9c46e9b924a5c7aa726e2}
+      \strng{authorbibnamehash}{6640d94d31f9c46e9b924a5c7aa726e2}
+      \strng{authornamehash}{6640d94d31f9c46e9b924a5c7aa726e2}
+      \strng{authorfullhash}{6640d94d31f9c46e9b924a5c7aa726e2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{publication descriptionWorld Academy Science Engineering and Technology}
+      \field{month}{7}
+      \field{title}{The use of RFID in solid propellant rocket production management system}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{none/global//global/global}
+    \entry{book2013}{book}{}
+      \list{publisher}{1}{%
+        {SE-EDUCATION}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9786167240343}
+      \field{title}{iPhone 5s/c Complete user guide}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{book2013a}{book}{}
+      \list{publisher}{1}{%
+        {SE-EDUCATION}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9786167240329}
+      \field{title}{Samsung Galaxy S4 the Complete Manual}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{book2012}{book}{}
+      \list{publisher}{1}{%
+        {SE-EDUCATION}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9786167240312}
+      \field{title}{Samsung Galaxy Note 2}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{book2012a}{book}{}
+      \list{publisher}{1}{%
+        {SE-EDUCATION}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9786167240299}
+      \field{title}{Max OS X Mountain Lion}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{book2012b}{book}{}
+      \list{publisher}{1}{%
+        {SE-EDUCATION}%
+      }
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9786167240275}
+      \field{title}{Samsung Galaxy S3: How to use}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{book2007}{book}{}
+      \list{publisher}{1}{%
+        {SE-EDUCATION}%
+      }
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789749560136}
+      \field{title}{Wiki, Knowledge Management System}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{kerdsri2003snmp}{book}{}
+      \list{publisher}{1}{%
+        {Storming Media}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1423503287}
+      \field{title}{SNMP over Wi-Fi wireless networks}
+      \field{year}{2003}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
