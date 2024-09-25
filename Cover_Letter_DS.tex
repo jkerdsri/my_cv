@@ -1,90 +1,48 @@
-%% start of file `template.tex'.
-%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
-%Version for spanish users, by dgarhdez
-
-\documentclass[11pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\documentclass[10pt,a4paper,roman]{moderncv}
 %\usepackage[spanish,es-lcroman]{babel}
 
-
 % moderncv themes
-\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{green}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
-%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+\moderncvstyle{classic}
+\moderncvcolor{green}
 
 % character encoding
-\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+\usepackage[utf8]{inputenc}
 
 % adjust the page margins
-\usepackage[scale=0.75]{geometry}
-%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+\usepackage[margin=0.7in]{geometry}
 
 % personal data
 \name{Jiradett}{Kerdsri, Ph.D.}
-\title{Resumé title}                               % optional, remove / comment the line if not wanted
-\address{74A Pine Street}{Reservoir 3073}{Vitoria, Australia}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
-\phone[mobile]{+61 4 5118 9377}                   % optional, remove / comment the line if not wanted
-%\phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
-%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
-\email{jiradett@gmail.com}                               % optional, remove / comment the line if not wanted
-\homepage{inkedin.com/in/jiradett/}                         % optional, remove / comment the line if not wanted
-%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
-%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
-%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+\title{Resumé title}
+\address{74A Pine Street}{Reservoir 3073}{Victoria, Australia}
+\phone[mobile]{+61 4 5118 9377}
+\email{jiradett@kerdsri.com}
+\homepage{linkedin.com/in/jiradett/}
 
-% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
-%\makeatletter
-%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
-%\makeatother
-%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
-
-% bibliography with mutiple entries
-%\usepackage{multibib}
-%\newcites{book,misc}{{Books},{Others}}
-%---------------------------------------------------------------------------------- 
-%            content
-%----------------------------------------------------------------------------------
 \begin{document}
-%-----       letter       ---------------------------------------------------------
 % recipient data
 \recipient{}{}
-%\date{\today}
 \opening{Dear Sir/Madam,}
 \closing{Sincerely,}
-\enclosure[JK]{CV}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+\enclosure[JK]{CV}
 \makelettertitle
 
 I am writing to express my keen interest in this position. My unique background in research, data analysis, and leadership, coupled with my passion for applying cutting-edge technologies to real-world challenges, makes me a strong candidate for this role.
 
-Bridging the Gap Between Defense and Data Science:
+\textbf{Bridging the Gap Between Defense and Data Science:}
 
-My career path may seem unconventional, but it has equipped me with a powerful skillset. I honed my analytical abilities during a decade-long tenure as a researcher at the Defense Technology Institute's data communication laboratory. There, I focused on big data and machine learning, particularly Convolutional Neural Networks (CNNs) for defense applications. This experience instilled in me a deep understanding of complex data structures and the power of AI to extract valuable insights.
+My career path may seem unconventional, but it has equipped me with a powerful skill set. I honed my analytical abilities during a decade-long tenure as a researcher at the Defense Technology Institute's data communication laboratory. There, I focused on big data and machine learning, particularly Convolutional Neural Networks (CNNs) for defense applications. This experience instilled in me a deep understanding of complex data structures and the power of AI to extract valuable insights.
 
-Leadership in Data-Driven Decision Making:
+\textbf{Leadership in Data-Driven Decision Making:}
 
 While excelling in research, I also cultivated strong leadership skills. As deputy director of data analytics in my previous role, I spearheaded a team of data scientists. We leveraged micro/granular data, alternative data sources (Big Data), and cutting-edge techniques like machine learning, text processing, and network theory to generate richer insights than traditional aggregated data could provide. This experience honed my ability to translate complex data analysis into actionable strategies.
 
-Passion for Innovation and a Commitment to Australia:
+\textbf{Passion for Innovation and a Commitment to Australia:}
 
-My dedication to continuous learning led me to pursue a Ph.D. in Information and Engineering with a specialization in virtualization networks. This further solidified my understanding of technological trends. In recognition of my expertise, I was granted an Australian Permanent Residency through the Global Talent Visa program. Currently, I leverage my skills as a Lead Data Engineer at the Cancer Council Victoria, contributing to the fight against cancer through data-driven solutions.
+My dedication to continuous learning led me to pursue a Ph.D. in Information and Engineering with a specialization in virtualization networks. This further solidified my understanding of technological trends. In recognition of my expertise, I was granted Australian Permanent Residency through the Global Talent Visa program. Currently, I leverage my skills as a Lead Data Engineer at the Cancer Council Victoria, contributing to the fight against cancer through data-driven solutions.
 
 My diverse background, combined with my leadership skills and passion for innovation, makes me confident that I can significantly contribute to your team's success. I am eager to learn more about the specific challenges and opportunities within this role.
-
-Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further in an interview.
-
-
-\vspace{0.5cm}
-
 
 \makeletterclosing
 
 \end{document}
-
-
-%% end of file `template.tex'.
